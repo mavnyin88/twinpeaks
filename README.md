@@ -1,6 +1,6 @@
 # Twin Peaks
 
-Here's a Nav Bar using Animate CSS.
+Here's a Nav Bar using Animate CSS and Bootstrap tool tip.
 
 The picture inspired me to create a home page to Visit San Francisco, California.
 
