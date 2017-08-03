@@ -30,7 +30,7 @@ li{
 	list-style-type: none; 
 	display: inline-block;
 	margin: 0;
-	padding:5px;
+	padding:10px;
 	position: relative;
 }
 a{
@@ -40,7 +40,7 @@ a{
 	color: #1394cb;
 }
 .bar-motion{
-	font-size: 23px;
+	font-size: 18px;
 	letter-spacing: 5px;
 }
 #bottom{
