@@ -14,8 +14,6 @@ h1{
 }
 #navBar{
 	top:10px;
-	background-color: white;
-	box-shadow: 10px 10px 5px rgba(0,0,0,0.3);
 	width: 100%;
 	height: 50px;
 }
@@ -34,16 +32,17 @@ li{
 	position: relative;
 }
 a{
-	text-underline: none;
-	text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+	text-decoration: none;
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
 	font-family: Montserrat;
-	color: #1394cb;
+	color: #fff;
 }
 .bar-motion{
-	font-size: 18px;
+	font-size: 16px;
 	letter-spacing: 5px;
 }
 #bottom{
+	background:rgba(0,0,0,0.8);
 	text-align: center;
 	letter-spacing: 5px;
 	font-family: Georgia;
@@ -51,5 +50,5 @@ a{
 	bottom:40px;
 	left:0;
 	width:100%;
-	color:white;
+	color:#fff;
 }
