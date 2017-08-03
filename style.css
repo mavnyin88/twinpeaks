@@ -49,6 +49,7 @@ a{
 	position:fixed;
 	bottom:40px;
 	left:0;
-	width:auto;
+	width:200px;
+	margin:0 auto;
 	color:#fff;
 }
